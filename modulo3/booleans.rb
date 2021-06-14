@@ -9,8 +9,8 @@ p 5<10      # Menor estricto: true
 p 5>10      # Mayor estricto: false
 p 5<=5      # Menor o igual que: true
 p 5<=10     # Menor o igual que: true
-p 5=>10     # Mayor o igual que: false
-p 5=>5      # Mayor o igual que: true
+p 5>=10     # Mayor o igual que: false
+p 5>=5      # Mayor o igual que: true
 p 10==10    # Igualdad: true
 p 10==20    # Igualdad: false
 p 5=="5"    # Igualdad: false
