@@ -31,7 +31,7 @@ a,b,c = 10,20,30
 p a,b,c
 
 # Una forma valida de hacer un swap puede ser:
-a,b = b,a # lo primero que se evalua es lo que esta a la izquierda
+a,b = b,a # lo primero que se evalua es lo que esta a la derecha
 p a,b
 
 # Las constantes son referencias a objetos que no cambian su valor. Para declarar 
