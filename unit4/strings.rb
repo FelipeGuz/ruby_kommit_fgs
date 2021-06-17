@@ -77,5 +77,3 @@ puts 'Hello\nWorld'     # doesn't work
 phrase = "Hello World"
 puts "#{phrase}"        # Work
 puts '#{phrase}'        # doesn't work
-
-
