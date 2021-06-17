@@ -7,4 +7,3 @@ p [].empty?         # true
 # nil?: return true if is a nil object
 p [false,false,false].nil?  # false
 p nil.nil?                  # true
-

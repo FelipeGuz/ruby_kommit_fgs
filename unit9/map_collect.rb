@@ -17,4 +17,3 @@ def cubes(arr)
 end
 
 p cubes(numbers)
-

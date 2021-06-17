@@ -51,4 +51,3 @@ end
 colors.each_with_index do |color,i|
     puts "The color ##{i} is #{color} "
 end
-

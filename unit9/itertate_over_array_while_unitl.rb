@@ -15,4 +15,3 @@ until i>=animals.length
     p animals[i]
     i+=1
 end
-

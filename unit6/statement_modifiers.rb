@@ -22,4 +22,3 @@ end
 
 #=> one line version
 puts "x in NOT greater than 10" unless x > 10
-
